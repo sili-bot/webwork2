@@ -155,7 +155,7 @@
 				height: 85%;
 				display: flex;
 				position: absolute;
-				right: -2%;
+				right: 0%;
 			}
 			div{
 				font-size: 25px;
